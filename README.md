@@ -5,7 +5,6 @@
 💼 Currently looking for a Data Science / Data Analyst internship in Ireland
 
 ---
-
 ## 🚀 About Me
 
 I'm a Data Science & AI student interested in using data to solve
@@ -16,9 +15,6 @@ I'm currently building projects to strengthen my skills in data
 analysis, machine learning and software development.
 
 ---
-
-## 🛠️ Technologies
-
 ### Languages
 Python, R, SQL, JavaScript
 
