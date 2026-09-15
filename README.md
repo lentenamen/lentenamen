@@ -20,7 +20,7 @@ analysis, machine learning and software development.
 ## 🛠️ Technologies
 
 ### Languages
-Python • R • SQL
+Python, R, SQL, JavaScript
 
 ### Data Science
 pandas • NumPy • Matplotlib • Seaborn • scikit-learn
@@ -31,51 +31,3 @@ SQL • SQLite • MySQL • Azure • Power BI • Tableau • DBeaver
 ### Tools
 Git • GitHub • VS Code • Jupyter
 
----
-
-## 🌟 Featured Projects
-
-### 🏠 House Prices in Ireland
-Predicting Irish house prices based on property features and location.
-
-**Tech:** Python, pandas, NumPy, scikit-learn
-
-🔗 [View Project](...)
-
-### 🌾 Stardew Valley Farm Optimizer
-Using data analysis to determine profitable crops and optimal farming
-strategies throughout the Stardew Valley seasons.
-
-**Tech:** Python, pandas, NumPy, Matplotlib
-
-🔗 [View Project](...)
-
-### 📊 Data Analysis Projects
-A collection of projects involving data cleaning, statistical analysis,
-visualisation and machine learning.
-
-🔗 [View Repositories](...)
-
----
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Feature Engineering
-- Statistical Analysis
-- Data Visualisation
-- SQL
-- Model Evaluation
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](...)
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn  
-📧 Email
