@@ -23,11 +23,11 @@ analysis, machine learning and software development.
 Python, R, SQL, JavaScript
 
 ### Data Science
-pandas • NumPy • Matplotlib • Seaborn • scikit-learn
+pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 ### Databases & Visualisation
-SQL • SQLite • MySQL • Azure • Power BI • Tableau • DBeaver
+SQL, SQLite, MySQL, Azure, Power BI, Tableau, DBeaver
 
 ### Tools
-Git • GitHub • VS Code • Jupyter
+Git, GitHub, VS Code, Jupyter
 
